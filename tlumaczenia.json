@@ -356,7 +356,7 @@
         "This model only rolls to check wound effects once it has taken X wounds or more, and is only Knocked Out on rolls of 5+X or more.": "Ten model rzuca kośćmi, aby sprawdzić efekty ran, dopiero gdy otrzyma X lub więcej ran, a zostaje Znokautowany tylko przy rzutach 5+X lub wyższych.",
         "This model only rolls to check wound effects once it has taken at least X wounds, and is only Knocked Out on rolls of 5+X or more.": "Ten model rzuca kośćmi, aby sprawdzić efekty ran, dopiero gdy otrzyma X lub więcej ran, a zostaje Znokautowany tylko przy rzutach 5+X lub wyższych.",
         "This model and its unit get Regeneration.":"Ten model i jego jednostka otrzymują Regenerację.",
-        "This model and its unit get Tuneller.":"Ten model i jego jednostka otrzymują Tunelowanie.",
+        "This model and its unit get Tunneller.":"Ten model i jego jednostka otrzymują Tunelowanie.",
         "This model and its unit ignore cover when shooting.":"Ten model i jego jednostka ignorują osłonę podczas strzelania.",
         "This model and its unit may ignore the Powolny rule.":"Ten model i jego jednostka ignorują zasadę Powolny.",
         "This model and its unit get AP(+1) when shooting.":"Ten model i jego jednostka otrzymują AP(+1) podczas strzelania."
