@@ -381,6 +381,6 @@
         "This model and its unit get AP(+1) when shooting.": "Ten model i jego jednostka otrzymują AP(+1) podczas strzelania.",
         "If this model is killed in melee, the attacking unit takes 3 hits.": "Jeśli ten model zostanie zabity w walce wręcz, atakujący oddział otrzymuje 3 trafienia.",
         "This model must take X wounds before being killed. If a model with tough joins a unit without it, then it is removed last when the unit takes wounds. Note that you must continue to put wounds on the tough model with most wounds in the unit until it is killed, before starting to put them on the next tough model (heroes must be assigned wounds last).": "Ten model musi otrzymać X ran zanim zostanie zabity. Jeśli model z Odpornością dołącza do oddziału, który jej nie ma, to jest on usuwany jako ostatni, kiedy oddział otrzymuje rany. Zauważ, że musisz nadal przypisywać rany na modelu z Odpornością, który ma ich najwięcej w oddziale, dopóki nie zostanie zabity, zanim zaczniesz przypisywać je na kolejnym modelu z Odpornością (bohaterowie muszą mieć przypisane rany jako ostatni).",
-        "Enemy units using Ambush must be set up over 12\" away from this model.": "Wrogie jednostki używające Zasadzki muszą być rozstawione w odległości większej niż 12\" od tego modelu.",
+        "Enemy units using Ambush must be set up over 12\" away from this model.": "Wrogie jednostki używające Zasadzki muszą być rozstawione w odległości większej niż 12\" od tego modelu."
     }
 }
