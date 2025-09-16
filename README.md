@@ -27,7 +27,7 @@ Postęp tłumaczenia:
 | Havoc Brothers |      |  ✔️  |
 | High Elf Fleets |      |  ✔️  |
 | Human Defense Force |      |  ✔️  |
-| Human Inquisition |      |      |
+| Human Inquisition |      |  ✔️  |
 | Infected Colonies |      |      |
 | Jackals |      |  ✔️  |
 | Machine Cult |      |      |
