@@ -28,7 +28,7 @@ Postęp tłumaczenia:
 | High Elf Fleets |      |  ✔️  |
 | Human Defense Force |      |  ✔️  |
 | Human Inquisition |      |  ✔️  |
-| Infected Colonies |      |      |
+| Infected Colonies |      |  ✔️  |
 | Jackals |      |  ✔️  |
 | Machine Cult |      |      |
 | Orc Marauders |      |  ✔️  |
