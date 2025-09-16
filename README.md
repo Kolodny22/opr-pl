@@ -3,9 +3,10 @@ Skrypt do Tampermonkey, który automatycznie podmienia opisy zdolności na stron
 
 Instalacja:
 
-1. Pobierz i zainsaluj wtyczke Tampermonkey do swojej przeglądarki internetowej (Chrome, Edge, Firefox...).
-2. Wklej kod z pliku Tłumacz OPR.js do swojego nowego skryptu w Tampermonkey.
-3. Przejdz na stronę Army Forge i buduj oraz drukuj listy armii po polsku.
+1. Pobierz i zainsaluj wtyczke <a href="https://www.tampermonkey.net/">Tampermonkey</a> do swojej przeglądarki internetowej (Chrome, Edge, Firefox, Safari, Opera Next).
+2. Postępuj zgodnie z instrukcjami wtyczki aby włączyć tryb developerski i uprawnienia do modyfikowania stron dla wtyczki.
+3. Wklej kod z pliku Tłumacz OPR.js do swojego nowego skryptu w Tampermonkey.
+4. Przejdz na stronę Army Forge i buduj oraz drukuj listy armii po polsku.
 
 Postęp tłumaczenia:
 
