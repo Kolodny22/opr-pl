@@ -9,35 +9,35 @@ Instalacja:
 
 Postęp tłumaczenia:
 
-| GFF  | Postęp |
-| ------------- | ------------- |
-| Alien Hives |  ✔️  |
-| Battle Brothers |  ✔️  |
-| Blessed Sisters |  ✔️  |
-| Custodian Brothers |  ✔️  |
-| DAO Union |  ✔️  |
-| Dark Elf Raiders |  ✔️  |
-| Dwarf Guilds |  ✔️  |
-| Elven Jesters |  ✔️  |
-| Eternal Dynasty |  ✔️  |
-| Gangs of New Eden |
-| Goblin Reclaimers |  ✔️  |
-| Havoc Brothers |  ✔️  |
-| High Elf Fleets |  ✔️  |
-| Human Defense Force |  ✔️  |
-| Human Inquisition |
-| Infected Colonies |
-| Jackals |  ✔️  |
-| Machine Cult |
-| Orc Marauders |  ✔️  |
-| Prime Brothers |  ✔️  |
-| Ratmen Clans |
-| Rebel Guerrillas |
-| Robot Legions |  ✔️  |
-| Saurian Starhost |  ✔️  |
-| Soul-Snatcher Cults |  ✔️  |
-| Titan Lords |
-| Wormhole Deamons  |  ✔️  |
+| Frakcja  | GF |  GFF  |
+| ------------- | ------------- | ------------- |
+| Alien Hives |      |  ✔️  |
+| Battle Brothers |      |  ✔️  |
+| Blessed Sisters |      |  ✔️  |
+| Custodian Brothers |      |  ✔️  |
+| DAO Union |      |  ✔️  |
+| Dark Elf Raiders |      |  ✔️  |
+| Dwarf Guilds |      |  ✔️  |
+| Elven Jesters |      |  ✔️  |
+| Eternal Dynasty |      |  ✔️  |
+| Gangs of New Eden |      |      |
+| Goblin Reclaimers |      |  ✔️  |
+| Havoc Brothers |      |  ✔️  |
+| High Elf Fleets |      |  ✔️  |
+| Human Defense Force |      |  ✔️  |
+| Human Inquisition |      |      |
+| Infected Colonies |      |      |
+| Jackals |      |  ✔️  |
+| Machine Cult |      |      |
+| Orc Marauders |      |  ✔️  |
+| Prime Brothers |      |  ✔️  |
+| Ratmen Clans |      |      |
+| Rebel Guerrillas |      |      |
+| Robot Legions |      |  ✔️  |
+| Saurian Starhost |      |  ✔️  |
+| Soul-Snatcher Cults |      |  ✔️  |
+| Titan Lords |      |      |
+| Wormhole Deamons  |      |  ✔️  |
 
 
 Tłumaczenia wygenerowane przez Google Gemini z poprawkami, aby urzymać nazwenictwo One Page Rules. Zasady nie są w żaden sposób modyfikowane i są wiernym tłumaczeniem ich wersji angielskiej.
