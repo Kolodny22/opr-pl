@@ -1,5 +1,5 @@
 # opr-pl
-Skrypt do Tampermonkey, który automatycznie tłumaczy Army Forge na polski.
+Skrypt do Tampermonkey, który automatycznie podmienia opisy zdolności na stronie Army Forge OPR, używając zewnętrznego pliku.
 
 Instalacja:
 
