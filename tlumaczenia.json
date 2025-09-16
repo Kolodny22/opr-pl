@@ -358,6 +358,7 @@
         "Moves -2\" when using Advance, and -4” when using Rush/Charge.": "Porusza się o -2\" podczas Marszu i -4\" podczas Biegu/Szarży.",
         "Enemies get -1 to hit rolls when shooting at units where all models have this rule from over 9\" away.": "Wrogowie otrzymują -1 do rzutów na trafienie, gdy strzelają z odległości ponad 9\" do jednostek, których wszystkie modele mają tę zasadę.",
         "May ignore the effects of difficult terrain when moving, and only needs 2+ to pass jumping rolls.": "Może ignorować efekty trudnego terenu podczas poruszania się i potrzebuje tylko 2+ do zaliczania rzutów na skok.",
+        "May ignore the effects of difficult terrain when moving.": "Może ignorować efekty trudnego terenu podczas poruszania się.",
         "This model only rolls to check wound effects once it has taken X wounds or more, and is only Knocked Out on rolls of 5+X or more.": "Ten model rzuca kośćmi, aby sprawdzić efekty ran, dopiero gdy otrzyma X lub więcej ran, a zostaje Znokautowany tylko przy rzutach 5+X lub wyższych.",
         "This model only rolls to check wound effects once it has taken at least X wounds, and is only Knocked Out on rolls of 5+X or more.": "Ten model rzuca kośćmi, aby sprawdzić efekty ran, dopiero gdy otrzyma X lub więcej ran, a zostaje Znokautowany tylko przy rzutach 5+X lub wyższych.",
         "This model and its unit get Regeneration.":"Ten model i jego jednostka otrzymują Regenerację.",
