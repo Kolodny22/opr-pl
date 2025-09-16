@@ -6,7 +6,7 @@ Instalacja:
 1. Pobierz i zainsaluj wtyczke <a href="https://www.tampermonkey.net/">Tampermonkey</a> do swojej przeglądarki internetowej (Chrome, Edge, Firefox, Safari, Opera Next).
 2. Postępuj zgodnie z instrukcjami wtyczki aby włączyć tryb developerski i uprawnienia do modyfikowania stron dla wtyczki.
 3. Wklej kod z pliku Tłumacz OPR.js do swojego nowego skryptu w Tampermonkey.
-4. Zezwól skryptowi na połączenie się z zewnętrznym plikiem aby pobrać tłumaczenia z Githuba.
+4. Zezwól skryptowi na połączenie się z zewnętrznym plikiem (tlumaczenia.json) aby pobrać tłumaczenia z Githuba.
 5. Przejdz na stronę Army Forge i buduj oraz drukuj listy armii po polsku.
 
 Postęp tłumaczenia:
