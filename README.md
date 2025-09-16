@@ -45,7 +45,7 @@ Postęp tłumaczenia:
 | Czary |     |
 | Tooltipy |     |
 
-![alt text](spolszczenie.png)
+![alt text](images/spolszczenie.png)
 
 Tłumaczenia wygenerowane przez Google Gemini z poprawkami, aby urzymać nazwenictwo One Page Rules. Zasady nie są w żaden sposób modyfikowane i są wiernym tłumaczeniem ich wersji angielskiej.
 
