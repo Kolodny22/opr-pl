@@ -30,7 +30,7 @@ Postęp tłumaczenia:
 | Human Inquisition |      |  ✔️  |
 | Infected Colonies |      |  ✔️  |
 | Jackals |      |  ✔️  |
-| Machine Cult |      |      |
+| Machine Cult |      |  ✔️  |
 | Orc Marauders |      |  ✔️  |
 | Prime Brothers |      |  ✔️  |
 | Ratmen Clans |      |      |
