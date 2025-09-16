@@ -39,6 +39,10 @@ Postęp tłumaczenia:
 | Titan Lords |      |      |
 | Wormhole Deamons  |      |  ✔️  |
 
+| Funkcja |  Postęp  |
+| ------------- | ------------- |
+| Czary |     |
+| Tooltipy |     |
 
 Tłumaczenia wygenerowane przez Google Gemini z poprawkami, aby urzymać nazwenictwo One Page Rules. Zasady nie są w żaden sposób modyfikowane i są wiernym tłumaczeniem ich wersji angielskiej.
 
