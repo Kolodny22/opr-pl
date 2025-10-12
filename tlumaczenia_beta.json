@@ -43,6 +43,8 @@
     },
     "descriptions":
     {
-        "This model and up to 3 friendly units that are within 12” at the beginning of the round get +6\" range when shooting. This effect lasts until the end of the round.": "Ten model i do 3 sojuszniczych jednostek w odległości 12\" na początku rundy otrzymują +6\" zasięgu podczas strzelania. Efekt trwa do końca rundy."
+        "This model and up to 3 friendly units that are within 12” at the beginning of the round get": "Ten model i do 3 sojuszniczych jednostek w odległości 12\" na początku rundy otrzymują",
+        "This effect lasts until the end of the round.": "Efekt trwa do końca rundy.",
+        "range when shooting": "zasięgu podczas strzelania"
     }
 }
