@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Tłumacz OPR
+// @name         Tłumacz OPR-pl
 // @namespace    http://tampermonkey.net/
 // @version      1.1
 // @description  Automatycznie i wydajnie podmienia opisy zdolności na stronie Army Forge OPR.
