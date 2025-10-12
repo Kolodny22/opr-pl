@@ -44,7 +44,10 @@
     "descriptions":
     {
         "This model and up to 3 friendly units that are within 12” at the beginning of the round get": "Ten model i do 3 sojuszniczych jednostek w odległości 12\" na początku rundy otrzymują",
+        "This model and up to 3 friendly units that are within 12” at the beginning of the round moves": "Ten model i do 3 sojuszniczych jednostek w odległości 12\" na początku rundy poruszają się o",
         "This effect lasts until the end of the round.": "Efekt trwa do końca rundy.",
-        "range when shooting": "zasięgu podczas strzelania"
+        "range when shooting": "zasięgu podczas strzelania",
+        "to defense rolls": "do rzutów na Obronę",
+        "when using Charge actions": "podczas Szarży"
     }
 }
