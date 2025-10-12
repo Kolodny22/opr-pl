@@ -48,6 +48,9 @@
         "This effect lasts until the end of the round.": "Efekt trwa do końca rundy.",
         "range when shooting": "zasięgu podczas strzelania",
         "to defense rolls": "do rzutów na Obronę",
-        "when using Charge actions": "podczas Szarży"
+        "when using Charge actions": "podczas Szarży",
+        "Ignores Regeneration": "Ignoruje Regenerację",
+        "This model gets": "Ten model otrzymuje",
+        "Once per activation, pick one friendly model within": "Raz na aktywację, wybierz jedną sojuszniczą jednostkę w odległości"
     }
 }
