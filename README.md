@@ -11,35 +11,35 @@ Instalacja:
 
 Postęp tłumaczenia:
 
-| Frakcja  | GF |  GFF  |
-| ------------- | ------------- | ------------- |
-| Alien Hives |      |  ✔️  |
-| Battle Brothers |      |  ✔️  |
-| Blessed Sisters |      |  ✔️  |
-| Custodian Brothers |      |  ✔️  |
-| DAO Union |      |  ✔️  |
-| Dark Elf Raiders |      |  ✔️  |
-| Dwarf Guilds |      |  ✔️  |
-| Elven Jesters |      |  ✔️  |
-| Eternal Dynasty |      |  ✔️  |
-| Gangs of New Eden |      |      |
-| Goblin Reclaimers |      |  ✔️  |
-| Havoc Brothers |      |  ✔️  |
-| High Elf Fleets |      |  ✔️  |
-| Human Defense Force |      |  ✔️  |
-| Human Inquisition |      |  ✔️  |
-| Infected Colonies |      |  ✔️  |
-| Jackals |      |  ✔️  |
-| Machine Cult |      |  ✔️  |
-| Orc Marauders |      |  ✔️  |
-| Prime Brothers |      |  ✔️  |
-| Ratmen Clans |      |      |
-| Rebel Guerrillas |      |      |
-| Robot Legions |      |  ✔️  |
-| Saurian Starhost |      |  ✔️  |
-| Soul-Snatcher Cults |      |  ✔️  |
-| Titan Lords |      |      |
-| Wormhole Deamons  |      |  ✔️  |
+| Frakcja  | GF |  GFF  |  GFF 3.5.0  |
+| ------------- | ------------- | ------------- | ------------- |
+| Alien Hives |      |  ✔️  |      |
+| Battle Brothers |      |  ✔️  |      |
+| Blessed Sisters |      |  ✔️  |      |
+| Custodian Brothers |      |  ✔️  |      |
+| DAO Union |      |  ✔️  |      |
+| Dark Elf Raiders |      |  ✔️  |      |
+| Dwarf Guilds |      |  ✔️  |      |
+| Elven Jesters |      |  ✔️  |      |
+| Eternal Dynasty |      |  ✔️  |      |
+| Gangs of New Eden |      |      |      |
+| Goblin Reclaimers |      |  ✔️  |      |
+| Havoc Brothers |      |  ✔️  |      |
+| High Elf Fleets |      |  ✔️  |      |
+| Human Defense Force |      |  ✔️  |      |
+| Human Inquisition |      |  ✔️  |      |
+| Infected Colonies |      |  ✔️  |      |
+| Jackals |      |  ✔️  |      |
+| Machine Cult |      |  ✔️  |      |
+| Orc Marauders |      |  ✔️  |      |
+| Prime Brothers |      |  ✔️  |      |
+| Ratmen Clans |      |      |      |
+| Rebel Guerrillas |      |      |      |
+| Robot Legions |      |  ✔️  |      |
+| Saurian Starhost |      |  ✔️  |      |
+| Soul-Snatcher Cults |      |  ✔️  |      |
+| Titan Lords |      |      |      |
+| Wormhole Deamons  |      |  ✔️  |      |
 
 | Funkcja |  Postęp  |
 | ------------- | ------------- |
