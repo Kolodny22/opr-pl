@@ -54,7 +54,9 @@
         "If this model is killed, picked models that are deployed lose the rule.": "Jeśli model ten zostanie zabity, wybrane modele, które są w grze, tracą tę zasadę.",
         "moves +2\" when using Advance actions and +4\" when using Rush/Charge actions": "porusza się o +2\" podczas Marszu i +4\" podczas Biegu/Szarży",
         "to morale test rolls":"do testów na morale",
-        "to hit rolls in melee.":"do rzutów na trafienie w zwarciu."
+        "to hit rolls in melee.":"do rzutów na trafienie w zwarciu.",
+        "to hit rolls when shooting":"do rzutów na trafienie poczas strzelania",
+        "to hit rolls when charging":"do rzutów na trafienie poczas Szarży"
         
     },
     "spells":
