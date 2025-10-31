@@ -47,8 +47,8 @@
     "descriptions":
     {
         "This model and up to 3 friendly units picked before the start of the game get": "Ten model i do 3 sojuszniczych jednostek wybranych przed rozpoczęciem gry otrzymują",
-        "when shooting. If this model is killed, picked models that are deployed lose the rule.": "podczas strzelania. Jeśli model ten zostanie zabity, wybrane modele, które są w grze, tracą tę zasadę.",
         "range when shooting. If this model is killed, picked models that are deployed lose the rule.": "zasięgu podczas strzelania. Jeśli model ten zostanie zabity, wybrane modele, które są w grze, tracą tę zasadę.",
+        "when shooting. If this model is killed, picked models that are deployed lose the rule.": "podczas strzelania. Jeśli model ten zostanie zabity, wybrane modele, które są w grze, tracą tę zasadę.",
         "in melee. If this model is killed, picked models that are deployed lose the rule.": "w zwarciu. Jeśli model ten zostanie zabity, wybrane modele, które są w grze, tracą tę zasadę.",
         "If this model is killed, picked models that are deployed lose the rule.": "Jeśli model ten zostanie zabity, wybrane modele, które są w grze, tracą tę zasadę.",
         "moves +2\" when using Advance actions and +4\" when using Rush/Charge actions": "porusza się o +2\" podczas Marszu i +4\" podczas Biegu/Szarży",
