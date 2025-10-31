@@ -46,30 +46,10 @@
     },
     "descriptions":
     {
-        "This model and up to 3 friendly units that are within 12” at the beginning of the round get": "Ten model i do 3 sojuszniczych jednostek w odległości 12\" na początku rundy otrzymują",
-        "This model and up to 3 friendly units that are within 12” at the beginning of the round moves": "Ten model i do 3 sojuszniczych jednostek w odległości 12\" na początku rundy poruszają się o",
-        "This effect lasts until the end of the round.": "Efekt trwa do końca rundy.",
-        "Once per activation, pick one friendly model within": "Raz na aktywację, wybierz jedną sojuszniczą jednostkę w odległości",
-        "Once per activation, pick up to": "Raz na aktywację, wybierz do",
-        "friendly units within": "sojuszniczych jednostek w zasięgu",
-        "enemy units within": "wrogich jednostek w zasięgu",
-        "with Tough": "z Odpornością",
-        "which gets": "które otrzymują",
-        "and remove D3 wounds from it": "i usuń z niej D3 Ran",
-        "range when shooting": "zasięgu podczas strzelania",
-        "when shooting": "podczas strzelania",
-        "in melee": "w zwarciu",
-        "and moves": "i porusza się o",
-        "to defense rolls": "do rzutów na Obronę",
-        "to morale test rolls": "do rzutów na Morale",
-        "to hit rolls": "do rzutów na trafienie",
-        "when using Charge actions": "podczas Szarży",
-        "Ignores Regeneration": "Ignoruje Regenerację",
-        "and against units where most models have": "i przeciwko jednostkom, w których większość modeli ma",
-        "including any positive defense roll modifiers": "wliczając dodatkowe premie do rzutów na Obronę",
-        "this weapon gets": " ta broń otrzymuje",
-        "This model gets": "Ten model otrzymuje",
-        "to": "do"
+        "This model and up to 3 friendly units picked before the start of the game get": "Ten model i do 3 sojuszniczych jednostek wybranych przed rozpoczęciem gry otrzymują",
+        "when shooting. If this model is killed, picked models that are deployed lose the rule.": "podczas strzelania. Jeśli model ten zostanie zabity, wybrane modele, które są w grze, tracą tę zasadę.",
+        "in melee. If this model is killed, picked models that are deployed lose the rule.": "w zwarciu. Jeśli model ten zostanie zabity, wybrane modele, które są w grze, tracą tę zasadę.",
+        "If this model is killed, picked models that are deployed lose the rule.": "Jeśli model ten zostanie zabity, wybrane modele, które są w grze, tracą tę zasadę."
     },
     "spells":
     {
