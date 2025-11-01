@@ -235,6 +235,7 @@
     },
     "descriptions":
     {
+        "When this unit is activated, you may place all models with this rule in it anywhere fully within 3\" of their position": "Kiedy ta jednostka jest aktywowana, możesz umieścić wszystkie modele z tą zasadą w dowolnym miejscu w całości w promieniu 3\" od ich pozycji",
         "Once per activation, before attacking, place this model anywhere fully within 6\" of its position": "Raz na aktywację, przed atakiem, umieść ten model w dowolnym miejscu w całości w promieniu 6\" od jego pozycji",
         "When this model attacks in melee, roll X dice. For each 6+ the target takes one wound": "Kiedy ten model atakuje w walce wręcz, rzuć X kośćmi. Za każdą 6+ cel otrzymuje jedną ranę",
         "When a unit where all models have this rule takes wounds, roll one die for each. On a 6+ it is ignored. If the wounds were from a spell, then they are ignored on a 4+ instead": "Kiedy jednostka, w której wszystkie modele mają tę zasadę, otrzymuje rany, rzuć jedną kością za każdą z nich. Przy 6+ rana jest ignorowana. Jeśli rany pochodziły z czaru, są ignorowane przy 4+",
