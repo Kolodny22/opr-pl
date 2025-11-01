@@ -234,6 +234,17 @@
     },
     "descriptions":
     {
+        "Place one marker on this unit at the beginning of each round, starting on the round after which it deployed (counting start of game deployment as deploying on the first round). For each marker models with this rule in it get": "Umieść jeden znacznik na tej jednostce na początku każdej rundy, począwszy od rundy następującej po tej, w której się rozstawiła (licząc rozstawienie na początku gry jako rozstawienie w pierwszej rundzie). Za każdy znacznik modele z tą zasadą w jednostce otrzymują",
+        "up to a max. of": "do maksimum",
+        "If this unit is ever Shaken, it loses all its markers": "Jeśli ta jednostka kiedykolwiek zostanie Wstrząśnięta, traci wszystkie swoje znaczniki",
+        "Gets +1 to hit when attacking": "Otrzymuje +1 do rzutów na trafienie podczas ataku.",
+        "For each unmodified roll of 6 to hit in melee, this model may roll +1 attack with that weapon. This rule doesn’t apply to newly generated attacks": "Za każdy niemodyfikowany rzut 6 na trafienie w walce wręcz, ten model może rzucić +1 atak tą bronią. Ta zasada nie dotyczy nowo wygenerowanych ataków",
+        "When a unit where all models have this rule takes wounds, roll one die for each. On a 6+ it is ignored. If the wounds were from a spell, then they are ignored on a 2+ instead": "Kiedy jednostka, w której wszystkie modele mają tę zasadę, otrzymuje rany, rzuć jedną kością za każdą. Przy 6+ rana jest ignorowana. Jeśli rany pochodziły od zaklęcia, są ignorowane przy 2+ zamiast tego",
+        "Ignores Regeneration, and on unmodified results of 6 to hit that aren't blocked, this weapon deals 1 extra wound": "Ignoruje Regenerację, a przy niemodyfikowanych rzutach 6 na trafienie, które nie zostało zablokowane, ta Broń zadaje 1 dodatkową ranę",
+        "If this model is killed in melee, the attacking unit takes X hits. If this model survives melee, after both sides have finished attacking, it is immediately killed, and the enemy unit takes X hits": "Jeśli ten model zostanie zabity w walce wręcz, jednostka atakująca otrzymuje X trafień. Jeśli ten model przeżyje walkę wręcz, po zakończeniu atakowania przez obie strony, zostaje natychmiast zabity, a wroga jednostka otrzymuje X trafień.",
+        "Casters within 12\" that are from other friendly units may cast spells as if they were in this model's position, and get +1 to casting rolls when doing so": "Magowie w promieniu 12\", którzy pochodzą z innych sojuszniczych jednostek, mogą rzucać czary tak, jakby znajdowali się w pozycji tego modelu, i otrzymują +1 do rzutów na rzucanie czarów",
+        "przerwa": "przerwa",
+        "Whenever a unit where most models have this rule fails a morale test that causes it to be Shaken or Routed, the test counts as passed instead. Then, roll as many dice as the number of wounds it would take to check for wound effects (must always roll at least 1 die), and for each result of 1-3 the unit takes one wound, which can't be ignored": "Ilekroć jednostka, w której większość modeli ma tę zasadę, oblewa test morale, który spowodowałby, że będzie Wstrząśnięta lub Rozbita, test jest liczony jako zaliczony. Następnie, rzuć tyle kości, ile ran powinna przyjąć jednostka (zawsze musisz rzucić co najmniej 1 kością), aby sprawdzić efekty ran, a za każdy wynik 1-3 jednostka otrzymuje jedną ranę, której nie można zignorować",
         "Once per activation, before attacking, pick up to 4 enemy units within 18\", which friendly units gets": "Raz na aktywację, przed atakiem, wybierz do 4 wrogich jednostek w promieniu 18\", przeciwko którym sojusznicze jednostki otrzymują",
         "Once per activation, before attacking, pick up to 4 friendly units within 12\", which gets": "Raz na aktywację, przed atakiem, wybierz do 4 sojuszniczych jednostek w promieniu 12\", które otrzymują",
         "against once (next time the effect would apply).": "jeden raz (następnym razem, kiedy efekt miałby się zastosowanie)",
@@ -258,8 +269,7 @@
         "range when shooting": "zasięgu podczas strzelania",
         "when using Rush/Charge actions": "podczas Biegu/Szarży",
         "when using Advance actions and": "podczas Marszu i o",
-        "when using Charge actions.": "podczas Szarży",
-        "Ignores": "Ignoruje"
+        "when using Charge actions.": "podczas Szarży"
     },
     "spells":
     {
