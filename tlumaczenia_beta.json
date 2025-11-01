@@ -233,6 +233,7 @@
     },
     "descriptions":
     {
+        "Once per activation, before attacking, pick up to 4 enemy units within 18\", which friendly units gets Unpredictable Fighter against once (next time the effect would apply).": "Raz na aktywację, przed atakiem, wybierz ten model i do 3 sojuszniczych jednostek w promieniu 18\", przeciwko którym sojusznicze jednostki otrzymują Nieprzewidywalnego Wojownika raz (następnym razem, Kiedy efekt miałby zastosowanie).",
         "Place one marker on this unit at the beginning of each round, starting on the round after which it deployed (counting start of game deployment as deploying on the first round). For each marker models with this rule in it get AP(+1) (up to a max. of +2). If this unit is ever Shaken, it loses all its markers.": "Umieść jeden znacznik na tej jednostce na początku każdej rundy, zaczynając od rundy następującej po tej, w której się rozmieściła (licząc rozmieszczenie na początku gry jako rozmieszczenie w pierwszej rundzie). Za każdy znacznik modele z tą zasadą w jednostce otrzymują AP(+1) (maksymalnie do +2). Jeśli ta jednostka zostanie Wstrząśnięta, traci wszystkie swoje znaczniki.",
         "This model and up to 3 friendly units picked before the start of the game get": "Ten model i do 3 sojuszniczych jednostek wybranych przed rozpoczęciem gry otrzymują",
         "This model and up to 3 friendly units picked before the start of the game moves +4\" when using Charge actions.": "Ten model i do 3 sojuszniczych jednostek wybranych przed rozpoczęciem gry poruszają się o +4\" podczas Szarży",
