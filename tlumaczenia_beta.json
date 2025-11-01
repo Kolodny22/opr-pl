@@ -234,6 +234,8 @@
     },
     "descriptions":
     {
+        "When this unit is activated, pick one effect: until the end of the activation all models with this rule in it either get": "Kiedy ta jednostka jest aktywowana, wybierz jeden efekt: do końca aktywacji wszystkie modele z tą zasadą w tej jednostce otrzymują",
+        "when attacking, or get +1 to hit rolls when attacking": "podczas ataku, albo +1 do rzutów na trafienie podczas ataku",
         "Ignores Regeneration, and against units where most models have Defense 5+ to Defense 6+, this weapon gets": "Ignoruje Regenerację, a przeciwko jednostkom, w których większość modeli ma Obronę 5+ do 6+, ta broń otrzymuje",
         "After all other units are deployed (including non-": "Po rozstawieniu wszystkich innych jednostek (włącznie z jednostkami, które nie posiadają ",
         "units that were set aside), you may remove up to two friendly units from the table and deploy them again. Players alternate in placing Przegrupowanie units, starting with the player that activates next": " a zostały odłożone), możesz usunąć do dwóch sojuszniczych jednostek ze stołu i rozstawić je ponownie. Gracze na zmianę rozstawiają jednostki z Przegrupowaniem, zaczynając od gracza, który aktywuje się następny",
