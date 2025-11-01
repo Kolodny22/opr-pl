@@ -55,6 +55,7 @@
         "Ballistic Vest": "Kamizelka Balistyczna",
         "Bane in Melee Buff": "Wzmocnienie Zatrucia w Walce Wręcz",
         "Bane Mark": "Znak Zatrucia",
+        "Bane": "Zatrucie",
         "Bash": "Łomot",
         "Battle-Hardened": "Zaprawiony w Boju",
         "Battleborn": "Ród Bitwy",
@@ -253,8 +254,10 @@
         "to hit rolls in melee.": "do rzutów na trafienie w zwarciu.",
         "to hit rolls when shooting": "do rzutów na trafienie poczas strzelania",
         "to hit rolls when charging": "do rzutów na trafienie poczas Szarży",
+        "to Defence rolls.": "do rzutów na Obronę",
         "when using Rush/Charge actions": "podczas Biegu/Szarży",
         "when using Advance actions and": "podczas Marszu i o",
+        "when using Charge actions.": "podczas Szarży",
         "Ignores": "Ignoruje"
     },
     "spells":
