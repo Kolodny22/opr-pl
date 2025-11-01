@@ -233,6 +233,7 @@
     },
     "descriptions":
     {
+        "When attacking, unmodified results of 6 to hit deal 1 extra hit (only the original hit counts as a 6 for special rules).": "Podczas atakowania, niemodyfikowane wyniki 6 na trafienie zadają 1 dodatkowe trafienie (tylko oryginalne trafienie liczy się jako 6 dla zdolności specjalnych).",
         "This model counts as having": "Ten model jest traktowany jako posiadający",
         "This model and up to 3 friendly units picked before the start of the game get": "Ten model i do 3 sojuszniczych jednostek wybranych przed rozpoczęciem gry otrzymują",
         "This model and up to 3 friendly units picked before the start of the game moves": "Ten model i do 3 sojuszniczych jednostek wybranych przed rozpoczęciem gry poruszają się o",
