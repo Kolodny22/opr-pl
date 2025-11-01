@@ -235,6 +235,9 @@
     },
     "descriptions":
     {
+        "Once per activation, before attacking, place this model anywhere fully within 6\" of its position": "Raz na aktywację, przed atakiem, umieść ten model w dowolnym miejscu w całości w promieniu 6\" od jego pozycji",
+        "When this model attacks in melee, roll X dice. For each 6+ the target takes one wound": "Kiedy ten model atakuje w walce wręcz, rzuć X kośćmi. Za każdą 6+ cel otrzymuje jedną ranę",
+        "When a unit where all models have this rule takes wounds, roll one die for each. On a 6+ it is ignored. If the wounds were from a spell, then they are ignored on a 4+ instead": "Kiedy jednostka, w której wszystkie modele mają tę zasadę, otrzymuje rany, rzuć jedną kością za każdą z nich. Przy 6+ rana jest ignorowana. Jeśli rany pochodziły z czaru, są ignorowane przy 4+",
         "Counts as having Ambush, but may be deployed at the start of any round, including the first": "Jest traktowany jako posiadający Zasadzkę, ale może być rozstawiony na początku dowolnej rundy, włącznie z pierwszą",
         "This model gets +3\" range when shooting and moves +3\" when using Charge actions": "Ten model otrzymuje +3\" zasięgu podczas strzelania i porusza się o +3\" przy Szarży",
         "For each unmodified roll of 6 to hit when attacking, this model may roll +1 attack with that weapon. This rule doesn’t apply to newly generated attacks": "Za każdy niemodyfikowany rzut 6 na trafienie podczas ataku, model ten może wykonać +1 atak tą bronią. Ta zasada nie dotyczy nowo wygenerowanych ataków",
