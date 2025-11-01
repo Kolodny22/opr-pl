@@ -235,6 +235,10 @@
     },
     "descriptions":
     {
+        "Ignores Regeneration, and against units where most models have Defense 2+ to Defense 4+, this weapon gets": "Ignoruje Osłonę, a przeciwko jednostkom, w których większość modeli ma Obronę 2+ do 3+, ta broń otrzymuje",
+        "Once per game, during this model's activation, pick one enemy unit within 36\" and in line of sight of it, and place X markers on it. Friendly units get +X to hit rolls when attacking it.": "Raz na grę, podczas aktywacji tego modelu, wybierz jedną wrogą jednostkę w promieniu 36\" i w polu widzenia, i umieść na niej X żetonów. Sojusznicze jednostki otrzymują +X do rzutów na trafienie podczas atakowania jej.",
+        "in this unit deal extra hits on successful hit results of 5-6 from": "w tej jednostce zadają dodatkowe trafienia przy udanych rzutach na trafienie 5-6 z",
+        "Once per activation, before attacking, pick up to 4 enemy units within 18\" with Caster, which gets -1 to casting rolls once (next time the effect would apply).": "Raz na aktywację, przed atakiem, wybierz do 4 wrogich jednostek w promieniu 18\" z Mag, które otrzymują -1 do rzutów na rzucanie zaklęć raz (następnym razem, Kiedy efekt miałby zostać zastosowany).",
         "When this unit is activated, you may place all models with this rule in it anywhere fully within 3\" of their position": "Kiedy ta jednostka jest aktywowana, możesz umieścić wszystkie modele z tą zasadą w dowolnym miejscu w całości w promieniu 3\" od ich pozycji",
         "Once per activation, before attacking, place this model anywhere fully within 6\" of its position": "Raz na aktywację, przed atakiem, umieść ten model w dowolnym miejscu w całości w promieniu 6\" od jego pozycji",
         "When this model attacks in melee, roll X dice. For each 6+ the target takes one wound": "Kiedy ten model atakuje w walce wręcz, rzuć X kośćmi. Za każdą 6+ cel otrzymuje jedną ranę",
@@ -285,7 +289,11 @@
         "when using Rush/Charge actions": "podczas Biegu/Szarży",
         "when using Advance actions and": "podczas Marszu i o",
         "when using Charge actions.": "podczas Szarży",
-        "when shooting": "podczas strzelania"
+        "when charging": "podczas Szarży",
+        "when shooting": "podczas strzelania",
+        "This model gets": "Ten model otrzymuje",
+        "instead of only on 6": "zamiast tylko na 6",
+        "Models with": "Modele z"
     },
     "spells":
     {
