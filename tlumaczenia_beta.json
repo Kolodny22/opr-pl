@@ -234,6 +234,7 @@
     },
     "descriptions":
     {
+        "Ignores Regeneration, and against units where most models have Defense 5+ to Defense 6+, this weapon gets": "Ignoruje Regenerację, a przeciwko jednostkom, w których większość modeli ma Obronę 5+ do 6+, ta broń otrzymuje",
         "After all other units are deployed (including non-": "Po rozstawieniu wszystkich innych jednostek (włącznie z jednostkami, które nie posiadają ",
         "units that were set aside), you may remove up to two friendly units from the table and deploy them again. Players alternate in placing Przegrupowanie units, starting with the player that activates next": " a zostały odłożone), możesz usunąć do dwóch sojuszniczych jednostek ze stołu i rozstawić je ponownie. Gracze na zmianę rozstawiają jednostki z Przegrupowaniem, zaczynając od gracza, który aktywuje się następny",
         "Once per activation, pick one friendly model within 3\" with Tough, and remove D3 wounds from it.": "Raz na aktywację, wybierz jeden sojuszniczy model w promieniu 3\" z Wytrzymałością i usuń z niego D3 rany.",
