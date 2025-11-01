@@ -234,7 +234,6 @@
     "descriptions":
     {
         "This model counts as having": "Ten model jest traktowany jako posiadający",
-        "Moves +1\" when using Advance, and +2” when using Rush/Charge.": "Porusza się o +1\" podczas Marszu i o +2\" podczas Biegu/Szarży.",
         "This model and up to 3 friendly units picked before the start of the game get": "Ten model i do 3 sojuszniczych jednostek wybranych przed rozpoczęciem gry otrzymują",
         "This model and up to 3 friendly units picked before the start of the game moves +4\" when using Charge actions.": "Ten model i do 3 sojuszniczych jednostek wybranych przed rozpoczęciem gry poruszają się o +4\" podczas Szarży",
         "range when shooting. If this model is killed, picked models that are deployed lose the rule.": "zasięgu podczas strzelania. Jeśli model ten zostanie zabity, wybrane modele, które są w grze, tracą tę zasadę.",
@@ -246,6 +245,7 @@
         "to hit rolls in melee.": "do rzutów na trafienie w zwarciu.",
         "to hit rolls when shooting": "do rzutów na trafienie poczas strzelania",
         "to hit rolls when charging": "do rzutów na trafienie poczas Szarży",
+        "Moves +1\" when using Advance, and +2” when using Rush/Charge.": "Porusza się o +1\" podczas Marszu i o +2\" podczas Biegu/Szarży.",
         "Ignores": "Ignoruje"
     },
     "spells":
