@@ -245,8 +245,8 @@
         "to hit rolls in melee.": "do rzutów na trafienie w zwarciu.",
         "to hit rolls when shooting": "do rzutów na trafienie poczas strzelania",
         "to hit rolls when charging": "do rzutów na trafienie poczas Szarży",
-        "when using Rush/Charge": "podczas Biegu/Szarży",
-        "when using Advance, and": "podczas Marszu i o",
+        "when using Rush/Charge actions": "podczas Biegu/Szarży",
+        "when using Advance actions and": "podczas Marszu i o",
         "Ignores": "Ignoruje"
     },
     "spells":
