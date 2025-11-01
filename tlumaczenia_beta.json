@@ -234,7 +234,7 @@
     },
     "descriptions":
     {
-        "Place one marker on this unit at the beginning of each round, starting on the round after which it deployed (counting start of game deployment as deploying on the first round). For each marker models with this rule in it get": "Umieść jeden znacznik na tej jednostce na początku każdej rundy, począwszy od rundy następującej po tej, w której się rozstawiła (licząc rozstawienie na początku gry jako rozstawienie w pierwszej rundzie). Za każdy znacznik modele z tą zasadą w jednostce otrzymują",
+        "Place one marker on this unit at the beginning of each round, starting on the round after which it deployed (counting  start of game deployment as deploying on the first round). For each marker models with this rule in it get ": "Umieść jeden znacznik na tej jednostce na początku każdej rundy, począwszy od rundy następującej po tej, w której się rozstawiła (licząc rozstawienie na początku gry jako rozstawienie w pierwszej rundzie). Za każdy znacznik modele z tą zasadą w jednostce otrzymują ",
         "up to a max. of": "do maksimum",
         "If this unit is ever Shaken, it loses all its markers": "Jeśli ta jednostka kiedykolwiek zostanie Wstrząśnięta, traci wszystkie swoje znaczniki",
         "Gets +1 to hit when attacking": "Otrzymuje +1 do rzutów na trafienie podczas ataku.",
