@@ -47,6 +47,7 @@
         "Weapon": "Broń",
         "Army-Wide Special Rules": "Zasady specjalne armii",
         "Special Rules": "Zasady specjalne",
+        "Aura": "- Aura",
         "Agile": "Zwinność",
         "Ambush Beacon": "Latarnia Zasadzki",
         "Ambush Re-Deployment": "Przegrupowanie z Zasadzką",
@@ -232,8 +233,7 @@
         "Warbound": "Piętno Wojny",
         "Watchborn": "Ród Strażniczy",
         "Wolfborn": "Ród Wilka",
-        "Wreck": "Wrak",
-        "Aura": "- Aura"
+        "Wreck": "Wrak"
     },
     "descriptions":
     {
