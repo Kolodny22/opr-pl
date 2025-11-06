@@ -376,6 +376,7 @@
         "This model gets +X to defense rolls": "Ten model otrzymuje +X do rzutów na Obronę",
         "This model gets AP(+1) when charging.": "Ten model otrzymuje AP(+1) podczas szarży.",
         "This model gets Quake when shooting.": "Ten model otrzymuje Wstrząs podczas strzelania.",
+        "This model gets Surge when shooting.": "Ten model otrzymuje Impuls podczas strzelania.",
         "This model ignores penalties from shooting after moving when using Indirect weapons.": "Ten model ignoruje kary za strzelanie po ruchu, kiedy używa broni Niebezpośredniej.",
         "This model may ignore the Slow rule.": "Ten model może zignorować zasadę Powolny.",
         "This model only rolls to check wound effects once it has taken at least X wounds, and is only Knocked Out on rolls of 5+X or more.": "Ten model rzuca kośćmi, aby sprawdzić efekty ran, dopiero gdy otrzyma X lub więcej ran, a zostaje Znokautowany tylko przy rzutach 5+X lub wyższych.",
