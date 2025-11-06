@@ -426,7 +426,8 @@
         "to morale test rolls": "do testów na morale",
         "when using Rush/Charge actions": "podczas Biegu/Szarży",
         "when using Advance actions and": "podczas Marszu i o",
-        "when using Charge actions": "podczas Szarży"
+        "when using Charge actions": "podczas Szarży",
+        "when Shooting": "podczas strzelania"
     },
     "spells":
     {
