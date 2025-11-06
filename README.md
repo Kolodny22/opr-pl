@@ -47,6 +47,7 @@ Postęp tłumaczenia:
 
 | Funkcja |  Postęp  |
 | ------------- | ------------- |
+| Aury |  ✔️  |
 | Czary |     |
 | Tooltipy |     |
 
