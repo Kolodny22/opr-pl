@@ -22,7 +22,7 @@ Postęp tłumaczenia:
 | Dwarf Guilds |      |      |
 | Elven Jesters |      |      |
 | Eternal Dynasty |      |      |
-| Gangs of New Eden |      |      |      |
+| Gangs of New Eden |      |      |
 | Goblin Reclaimers |      |      |
 | Havoc Brothers |      |      |
 | High Elf Fleets |      |      |
