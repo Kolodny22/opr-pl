@@ -12,7 +12,7 @@ Instalacja:
 Postęp tłumaczenia:
 
 | Frakcja  | GF |  GFF  |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | Alien Hives |      |      |
 | Battle Brothers |      |      |
 | Blessed Sisters |      |  ✔️  |
