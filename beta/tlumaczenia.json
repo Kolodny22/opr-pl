@@ -455,6 +455,7 @@
         "in melee. If this model is killed, picked models that are deployed lose the rule.": "w zwarciu. Jeśli model ten zostanie zabity, wybrane modele, które są w grze, tracą tę zasadę.",
         "If this model is killed, picked models that are deployed lose the rule.": "Jeśli model ten zostanie zabity, wybrane modele, które są w grze, tracą tę zasadę.",
         "to morale test rolls": "do testów na morale",
+        "to hit rolls": "do rzutów na trafienie",
         "when using Rush/Charge actions": "podczas Biegu/Szarży",
         "when using Advance actions and": "podczas Marszu i o",
         "when using Charge actions": "podczas Szarży"
