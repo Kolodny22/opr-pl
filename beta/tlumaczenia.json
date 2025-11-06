@@ -233,7 +233,8 @@
         "Warbound": "Piętno Wojny",
         "Watchborn": "Ród Strażniczy",
         "Wolfborn": "Ród Wilka",
-        "Wreck": "Wrak"
+        "Wreck": "Wrak",
+        "when Shooting": "podczas Strzelania"
     },
     "descriptions":
     {
@@ -426,8 +427,7 @@
         "to morale test rolls": "do testów na morale",
         "when using Rush/Charge actions": "podczas Biegu/Szarży",
         "when using Advance actions and": "podczas Marszu i o",
-        "when using Charge actions": "podczas Szarży",
-        "when Shooting": "podczas Strzelania"
+        "when using Charge actions": "podczas Szarży"
     },
     "spells":
     {
