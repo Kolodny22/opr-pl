@@ -385,6 +385,7 @@
         "This model gets Surge when shooting.": "Ten model otrzymuje Impuls podczas strzelania.",
         "This model ignores penalties from shooting after moving when using Indirect weapons.": "Ten model ignoruje kary za strzelanie po ruchu, kiedy używa broni Niebezpośredniej.",
         "This model may ignore the Slow rule.": "Ten model może zignorować zasadę Powolny.",
+        "This model moves +4\" when using Advance actions.": "Ten model porusza się o +4\" podczas Szarży.",
         "This model only rolls to check wound effects once it has taken at least X wounds, and is only Knocked Out on rolls of 5+X or more.": "Ten model rzuca kośćmi, aby sprawdzić efekty ran, dopiero gdy otrzyma X lub więcej ran, a zostaje Znokautowany tylko przy rzutach 5+X lub wyższych.",
         "This model’s Impact hits get AP(1).": "Trafienia z Impaktu tego modelu otrzymują AP(1).",
         "This model's melee weapons get AP(+2) against units where most models have Tough(3) or higher.": "Broń do walki wręcz tego modelu otrzymuje AP(+2) przeciwko jednostkom, w których większość modeli ma Wytrzymałość(3) lub wyższą.",
