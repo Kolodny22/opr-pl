@@ -15,7 +15,7 @@ Instalacja:
 
 Postęp tłumaczenia:
 
-| Frakcja  | GF |  GFF  |  AoF  |  AoFS  |
+| Frakcja  |  GF  |  GFF  |  AoF  |  AoFS  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Alien Hives |      |      |      |      |
 | Battle Brothers |      |      |      |      |
