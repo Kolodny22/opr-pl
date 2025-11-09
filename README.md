@@ -50,6 +50,7 @@ Jestem w trakcie tłumaczenia aktualizacji 3.5. Niestety ze względu na dodanie 
 | Aury |  ✔️  |
 | Czary |     |
 | Tooltipy |     |
+| Nazwy broni |     |
 
 ![alt text](images/spolszczenie.png)
 
