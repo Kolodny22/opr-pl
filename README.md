@@ -19,7 +19,7 @@ Jestem w trakcie tłumaczenia aktualizacji 3.5. Niestety ze względu na dodanie 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Alien Hives |      |   ✔️   |      |   ✔️   |
 | Battle Brothers |      |   ✔️   |      |   ✔️   |
-| Blessed Sisters |      |  ✔️  |      |   ✔️   |
+| Blessed Sisters |   ✔️   |  ✔️  |      |   ✔️   |
 | Custodian Brothers |      |   ✔️   |      |   ✔️   |
 | DAO Union |      |   ✔️   |      |   ✔️   |
 | Dark Elf Raiders |      |   ✔️   |      |   ✔️   |
