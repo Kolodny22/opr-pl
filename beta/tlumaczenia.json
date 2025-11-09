@@ -421,6 +421,7 @@
         "This model and up to 3 friendly units picked before the start of the game get Changebound Boost. If this model is killed, picked models that are deployed lose the rule.": "Ten model i do 3 sojuszniczych jednostek wybranych przed rozpoczęciem gry otrzymują Piętna Zmiany (Wzmocnienie). Jeśli model ten zostanie zabity, wybrane modele, które są w grze, tracą tę zasadę.",
         "This model counts as having Caster(1).": "Ten model jest traktowany jako posiadający Mag(1).",
         "This model counts as having dealt +X wounds when checking wound effects in melee (must deal at least one wound).": "Model ten zadaje dodatkowe +X ran podczas rozpatrywania efektów ran w walce wręcz (musi zadać co najmniej jedną ranę).",
+        "This model counts as having dealt +X wounds when checking who won melee.": "Model ten zadaje dodatkowe +X ran podczas rozpatrywania kto wygrał w walce wręcz.",
         "This model gets -1 to hit rolls when shooting.": "Ten model otrzymuje -1 do rzutów na trafienie podczas strzelania.",
         "This model gets +1 to hit rolls when shooting.": "Ten model otrzymuje +1 do rzutów na trafienie podczas strzelania.",
         "This model gets +3\" range when shooting and moves +3\" when using Charge actions.": "Model ten otrzymuje +3\" zasięgu podczas strzelania i porusza się +3\" przy użyciu akcji Szarży.",
