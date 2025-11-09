@@ -1,11 +1,11 @@
 # opr-pl
 Skrypt do Tampermonkey, który automatycznie podmienia opisy zdolności na stronie Army Forge OPR, używając zewnętrznego pliku.
 
-Update 3.5:
+###Update 3.5:
 
 Jestem w trakcie tłumaczenia aktualizacji 3.5. Niestety ze względu na dodanie tooltipów tłumaczenie jest trudniejsze. Na chwilę obecną działają pełne tłumaczenia na ostatniej stronie tworzenia listy przy wydruku (tam gdzie nie ma tooltipów).
 
-Instalacja:
+###Instalacja:
 
 1. Pobierz i zainsaluj wtyczke <a href="https://www.tampermonkey.net/">Tampermonkey</a> do swojej przeglądarki internetowej (Chrome, Edge, Firefox, Safari, Opera Next).
 2. Postępuj zgodnie z instrukcjami wtyczki aby włączyć tryb developerski i uprawnienia do modyfikowania stron dla wtyczki.
@@ -13,7 +13,7 @@ Instalacja:
 4. Zezwól skryptowi na połączenie się z zewnętrznym plikiem (tlumaczenia.json) aby pobrać tłumaczenia z Githuba.
 5. Przejdz na stronę Army Forge i drukuj listy armii po polsku.
 
-Postęp tłumaczenia:
+###Postęp tłumaczenia:
 
 | Frakcja  |  GF  |  GFF  |  AoF  |  AoFS  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
