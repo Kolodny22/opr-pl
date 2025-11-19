@@ -21,7 +21,7 @@ Jestem w trakcie tłumaczenia aktualizacji 3.5. Niestety ze względu na dodanie 
 | Battle Brothers |   ✔️   |   ✔️   |      |   ✔️   |
 | Blessed Sisters |   ✔️   |  ✔️  |      |   ✔️   |
 | Custodian Brothers |   ✔️   |   ✔️   |      |   ✔️   |
-| DAO Union |      |   ✔️   |      |   ✔️   |
+| DAO Union |   ✔️   |   ✔️   |      |   ✔️   |
 | Dark Elf Raiders |      |   ✔️   |      |   ✔️   |
 | Dwarf Guilds |      |   ✔️   |      |   ✔️   |
 | Elven Jesters |      |   ✔️   |      |   ✔️   |
