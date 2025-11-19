@@ -18,7 +18,7 @@ Jestem w trakcie tłumaczenia aktualizacji 3.5. Niestety ze względu na dodanie 
 | Frakcja  |  GF  |  GFF  |  AoF  |  AoFS  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Alien Hives |   ✔️   |   ✔️   |      |   ✔️   |
-| Battle Brothers |      |   ✔️   |      |   ✔️   |
+| Battle Brothers |   ✔️   |   ✔️   |      |   ✔️   |
 | Blessed Sisters |   ✔️   |  ✔️  |      |   ✔️   |
 | Custodian Brothers |      |   ✔️   |      |   ✔️   |
 | DAO Union |      |   ✔️   |      |   ✔️   |
