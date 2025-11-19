@@ -23,7 +23,7 @@ Jestem w trakcie tłumaczenia aktualizacji 3.5. Niestety ze względu na dodanie 
 | Custodian Brothers |   ✔️   |   ✔️   |      |   ✔️   |
 | DAO Union |   ✔️   |   ✔️   |      |   ✔️   |
 | Dark Elf Raiders |   ✔️   |   ✔️   |      |   ✔️   |
-| Dwarf Guilds |      |   ✔️   |      |   ✔️   |
+| Dwarf Guilds |   ✔️   |   ✔️   |      |   ✔️   |
 | Elven Jesters |      |   ✔️   |      |   ✔️   |
 | Eternal Dynasty |      |   ✔️   |      |   ✔️   |
 | Gangs of New Eden |      |  ✔️    |      |   ✔️   |
