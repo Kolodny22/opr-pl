@@ -25,7 +25,7 @@ Jestem w trakcie tłumaczenia aktualizacji 3.5. Niestety ze względu na dodanie 
 | Dark Elf Raiders |   ✔️   |   ✔️   |      |   ✔️   |
 | Dwarf Guilds |   ✔️   |   ✔️   |      |   ✔️   |
 | Elven Jesters |   ✔️   |   ✔️   |      |   ✔️   |
-| Eternal Dynasty |      |   ✔️   |      |   ✔️   |
+| Eternal Dynasty |   ✔️   |   ✔️   |      |   ✔️   |
 | Gangs of New Eden |      |  ✔️    |      |   ✔️   |
 | Goblin Reclaimers |      |   ✔️   |      |   ✔️   |
 | Havoc Brothers |      |   ✔️   |      |   ✔️   |
