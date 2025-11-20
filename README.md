@@ -27,7 +27,7 @@ Jestem w trakcie tłumaczenia aktualizacji 3.5. Niestety ze względu na dodanie 
 | Elven Jesters |   ✔️   |   ✔️   |      |   ✔️   |
 | Eternal Dynasty |   ✔️   |   ✔️   |      |   ✔️   |
 | Gangs of New Eden |      |  ✔️    |      |   ✔️   |
-| Goblin Reclaimers |      |   ✔️   |      |   ✔️   |
+| Goblin Reclaimers |   ✔️   |   ✔️   |      |   ✔️   |
 | Havoc Brothers |      |   ✔️   |      |   ✔️   |
 | High Elf Fleets |      |   ✔️   |      |   ✔️   |
 | Human Defense Force |      |  ✔️   |      |   ✔️   |
