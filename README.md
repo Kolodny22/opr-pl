@@ -24,7 +24,7 @@ Jestem w trakcie tłumaczenia aktualizacji 3.5. Niestety ze względu na dodanie 
 | DAO Union |   ✔️   |   ✔️   |      |   ✔️   |
 | Dark Elf Raiders |   ✔️   |   ✔️   |      |   ✔️   |
 | Dwarf Guilds |   ✔️   |   ✔️   |      |   ✔️   |
-| Elven Jesters |      |   ✔️   |      |   ✔️   |
+| Elven Jesters |   ✔️   |   ✔️   |      |   ✔️   |
 | Eternal Dynasty |      |   ✔️   |      |   ✔️   |
 | Gangs of New Eden |      |  ✔️    |      |   ✔️   |
 | Goblin Reclaimers |      |   ✔️   |      |   ✔️   |
