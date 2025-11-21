@@ -34,7 +34,7 @@ Jestem w trakcie tłumaczenia aktualizacji 3.5. Niestety ze względu na dodanie 
 | Human Inquisition |      |  ✔️   |      |   ✔️   |
 | Infected Colonies |      |   ✔️   |      |   ✔️   |
 | Jackals |      |   ✔️   |      |   ✔️   |
-| Machine Cult |      |   ✔️   |      |   ✔️   |
+| Machine Cult |   ✔️   |   ✔️   |      |   ✔️   |
 | Orc Marauders |   ✔️   |   ✔️   |      |   ✔️   |
 | Prime Brothers |      |   ✔️   |      |   ✔️   |
 | Ratmen Clans |      |   ✔️   |      |   ✔️   |
