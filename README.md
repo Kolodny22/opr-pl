@@ -41,7 +41,7 @@ Jestem w trakcie tłumaczenia aktualizacji 3.5. Niestety ze względu na dodanie 
 | Rebel Guerrillas |   ✔️   |   ✔️   |      |   ✔️   |
 | Robot Legions |   ✔️   |   ✔️   |      |   ✔️   |
 | Saurian Starhost |   ✔️   |   ✔️   |      |   ✔️   |
-| Soul-Snatcher Cults |      |   ✔️   |      |   ✔️   |
+| Soul-Snatcher Cults |   ✔️   |   ✔️   |      |   ✔️   |
 | Titan Lords |      |   ✔️   |      |   ✔️   |
 | Wormhole Deamons  |      |   ✔️   |      |   ✔️   |
 
