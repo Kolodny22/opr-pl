@@ -38,7 +38,7 @@ Jestem w trakcie tłumaczenia aktualizacji 3.5. Niestety ze względu na dodanie 
 | Orc Marauders |   ✔️   |   ✔️   |      |   ✔️   |
 | Prime Brothers |      |   ✔️   |      |   ✔️   |
 | Ratmen Clans |   ✔️   |   ✔️   |      |   ✔️   |
-| Rebel Guerrillas |      |   ✔️   |      |   ✔️   |
+| Rebel Guerrillas |   ✔️   |   ✔️   |      |   ✔️   |
 | Robot Legions |   ✔️   |   ✔️   |      |   ✔️   |
 | Saurian Starhost |   ✔️   |   ✔️   |      |   ✔️   |
 | Soul-Snatcher Cults |      |   ✔️   |      |   ✔️   |
