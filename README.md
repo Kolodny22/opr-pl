@@ -33,7 +33,7 @@ Jestem w trakcie tłumaczenia aktualizacji 3.5. Niestety ze względu na dodanie 
 | Human Defense Force |      |  ✔️   |      |   ✔️   |
 | Human Inquisition |      |  ✔️   |      |   ✔️   |
 | Infected Colonies |      |   ✔️   |      |   ✔️   |
-| Jackals |      |   ✔️   |      |   ✔️   |
+| Jackals |   ✔️   |   ✔️   |      |   ✔️   |
 | Machine Cult |   ✔️   |   ✔️   |      |   ✔️   |
 | Orc Marauders |   ✔️   |   ✔️   |      |   ✔️   |
 | Prime Brothers |      |   ✔️   |      |   ✔️   |
