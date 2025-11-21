@@ -37,7 +37,7 @@ Jestem w trakcie tłumaczenia aktualizacji 3.5. Niestety ze względu na dodanie 
 | Machine Cult |   ✔️   |   ✔️   |      |   ✔️   |
 | Orc Marauders |   ✔️   |   ✔️   |      |   ✔️   |
 | Prime Brothers |      |   ✔️   |      |   ✔️   |
-| Ratmen Clans |      |   ✔️   |      |   ✔️   |
+| Ratmen Clans |   ✔️   |   ✔️   |      |   ✔️   |
 | Rebel Guerrillas |      |   ✔️   |      |   ✔️   |
 | Robot Legions |   ✔️   |   ✔️   |      |   ✔️   |
 | Saurian Starhost |   ✔️   |   ✔️   |      |   ✔️   |
