@@ -35,7 +35,7 @@ Jestem w trakcie tłumaczenia aktualizacji 3.5. Niestety ze względu na dodanie 
 | Infected Colonies |      |   ✔️   |      |   ✔️   |
 | Jackals |      |   ✔️   |      |   ✔️   |
 | Machine Cult |      |   ✔️   |      |   ✔️   |
-| Orc Marauders |      |   ✔️   |      |   ✔️   |
+| Orc Marauders |   ✔️   |   ✔️   |      |   ✔️   |
 | Prime Brothers |      |   ✔️   |      |   ✔️   |
 | Ratmen Clans |      |   ✔️   |      |   ✔️   |
 | Rebel Guerrillas |      |   ✔️   |      |   ✔️   |
