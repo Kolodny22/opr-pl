@@ -60,7 +60,7 @@
         "Bad Shot": "Kiepski Strzelec",
         "Badlands Hunter": "Łowca Złych Ziem",
         "Ballistic Vest": "Kamizelka Balistyczna",
-        "Bane in Melee Buff": "Wzmocnienie Zatrucia w Walce Wręcz",
+        "Bane in Melee Buff": "Wzmocnienie Zatrucia w WW",
         "Bane Mark": "Znak Zatrucia",
         "Bane": "Zatrucie",
         "Banner": "Chorągiew",
@@ -152,9 +152,9 @@
         "Lustbound": "Piętno Żądzy",
         "Machine-Fog": "Maszynowa Mgła",
         "Martial Prowess": "Sprawność Bojowa",
-        "Melee Evasion": "Unik w Walce Wręcz",
-        "Melee Shrouding": "Maskowanie w Zwarciu",
-        "Melee Slayer": "Pogromca w Walce Wręcz",
+        "Melee Evasion": "Unik w WW",
+        "Melee Shrouding": "Maskowanie w WW",
+        "Melee Slayer": "Pogromca w WW",
         "Mend": "Leczenie",
         "Mind Control": "Kontrola Umysłu",
         "Mischievous": "Podstępny",
@@ -213,7 +213,7 @@
         "Reinforced": "Wzmocniony",
         "Reinforcement": "Posiłki",
         "Relentless Mark": "Znak Nieustępliwości",
-        "Rending in Melee Mark": "Znak Rozdzierania w Walce Wręcz",
+        "Rending in Melee Mark": "Znak Rozdzierania w WW",
         "Repel Ambushers": "Odparcie Zasadzki",
         "Resistance": "Twardziel",
         "Retaliate": "Odwet",
@@ -282,7 +282,7 @@
         "Wolfborn": "Ród Wilka",
         "Wreck": "Wrak",
         "when Shooting": "podczas Strzelania",
-        "in Melee": "w Walce Wręcz"
+        "in Melee": "w WW"
     },
     "descriptions":
     {
