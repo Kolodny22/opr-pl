@@ -31,7 +31,7 @@ Jestem w trakcie tłumaczenia aktualizacji 3.5. Niestety ze względu na dodanie 
 | Havoc Brothers |      |   ✔️   |      |   ✔️   |
 | High Elf Fleets |   ✔️   |   ✔️   |      |   ✔️   |
 | Human Defense Force |      |  ✔️   |      |   ✔️   |
-| Human Inquisition |      |  ✔️   |      |   ✔️   |
+| Human Inquisition |   ✔️   |  ✔️   |      |   ✔️   |
 | Infected Colonies |   ✔️   |   ✔️   |      |   ✔️   |
 | Jackals |   ✔️   |   ✔️   |      |   ✔️   |
 | Machine Cult |   ✔️   |   ✔️   |      |   ✔️   |
