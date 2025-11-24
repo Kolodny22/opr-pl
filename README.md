@@ -36,7 +36,7 @@ Jestem w trakcie tłumaczenia aktualizacji 3.5. Niestety ze względu na dodanie 
 | Jackals |   ✔️   |   ✔️   |      |   ✔️   |
 | Machine Cult |   ✔️   |   ✔️   |      |   ✔️   |
 | Orc Marauders |   ✔️   |   ✔️   |      |   ✔️   |
-| Prime Brothers |      |   ✔️   |      |   ✔️   |
+| Prime Brothers |   ✔️   |   ✔️   |      |   ✔️   |
 | Ratmen Clans |   ✔️   |   ✔️   |      |   ✔️   |
 | Rebel Guerrillas |   ✔️   |   ✔️   |      |   ✔️   |
 | Robot Legions |   ✔️   |   ✔️   |      |   ✔️   |
