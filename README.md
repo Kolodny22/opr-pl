@@ -30,7 +30,7 @@ Jestem w trakcie tłumaczenia aktualizacji 3.5. Niestety ze względu na dodanie 
 | Goblin Reclaimers |   ✔️   |   ✔️   |      |   ✔️   |
 | Havoc Brothers |   ✔️   |   ✔️   |      |   ✔️   |
 | High Elf Fleets |   ✔️   |   ✔️   |      |   ✔️   |
-| Human Defense Force |      |  ✔️   |      |   ✔️   |
+| Human Defense Force |   ✔️   |  ✔️   |      |   ✔️   |
 | Human Inquisition |   ✔️   |  ✔️   |      |   ✔️   |
 | Infected Colonies |   ✔️   |   ✔️   |      |   ✔️   |
 | Jackals |   ✔️   |   ✔️   |      |   ✔️   |
