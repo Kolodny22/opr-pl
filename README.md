@@ -28,7 +28,7 @@ Jestem w trakcie tłumaczenia aktualizacji 3.5. Niestety ze względu na dodanie 
 | Eternal Dynasty |   ✔️   |   ✔️   |      |   ✔️   |
 | Gangs of New Eden |      |  ✔️    |      |   ✔️   |
 | Goblin Reclaimers |   ✔️   |   ✔️   |      |   ✔️   |
-| Havoc Brothers |      |   ✔️   |      |   ✔️   |
+| Havoc Brothers |   ✔️   |   ✔️   |      |   ✔️   |
 | High Elf Fleets |   ✔️   |   ✔️   |      |   ✔️   |
 | Human Defense Force |      |  ✔️   |      |   ✔️   |
 | Human Inquisition |   ✔️   |  ✔️   |      |   ✔️   |
