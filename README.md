@@ -43,7 +43,7 @@ Jestem w trakcie tłumaczenia aktualizacji 3.5. Niestety ze względu na dodanie 
 | Saurian Starhost |   ✔️   |   ✔️   |      |   ✔️   |
 | Soul-Snatcher Cults |   ✔️   |   ✔️   |      |   ✔️   |
 | Titan Lords |      |   ✔️   |      |   ✔️   |
-| Wormhole Deamons  |      |   ✔️   |      |   ✔️   |
+| Wormhole Deamons  |   ✔️   |   ✔️   |      |   ✔️   |
 
 | Funkcja |  Postęp  |
 | ------------- | ------------- |
