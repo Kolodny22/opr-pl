@@ -369,8 +369,8 @@
         "Ignores Cover, and on unmodified results of 6 to hit, this weapon deals 1 extra hits (only the original hit counts as a 6 for special rules).": "Ignoruje Osłonę i przy niemodyfikowanym wyniku 6 na rzutach na trafienie, ta broń zadaje 1 dodatkowe trafienie (tylko oryginalne trafienie liczy się jako 6 dla reguł specjalnych).",
         "Ignores Cover, and on unmodified results of 6 to hit, those hits get": "Ignoruje Osłonę, a przy niemodyfikowanych wynikach 6 na trafienie, te trafienia otrzymują",
         "Ignores Cover, and when attacking the target must re-roll unmodified Defense results of 6.": "Ignoruje Osłonę, a podczas ataku cel musi przerzucić niemodyfikowane wyniki rzutów na Obronę równe 6.",
-        "Ignores Regeneration, and against non-Hero units with Tough(3) or more, this weapon gets AP(+2).": "Ignoruje Regenerację i przeciwko jednostkom niebędącym Bohaterami z Odpornością(3) lub większą, ta broń otrzymuje AP(+2).",
-        "Ignores Regeneration, and against non-Hero units with Tough(3) or more, this weapon gets AP(+4).": "Ignoruje Regenerację, a przeciwko jednostkom niebędącym Bohaterami z Odpornością(3) lub większą, ta broń otrzymuje AP(+4).",
+        "Ignores Regeneration, and against non-": "Ignoruje Regenerację i przeciwko jednostkom niebędącym ",
+        " or more, this weapon gets ": " lub większą, ta broń otrzymuje ",
         "Ignores Regeneration, and against units where most models have ": "Ignoruje Regenerację, a przeciwko jednostkom, w których większość modeli ma ",
         "this weapon gets": "ta broń zyskuje",
         "Ignores Regeneration, and ignores all negative modifiers to this weapon.": "Ignoruje Regenerację oraz ignoruje wszystkie negatywne modyfikatory mające wpływ na tę broń.",
@@ -588,6 +588,7 @@
         "when using Advance actions and": "podczas Marszu i o",
         "when using Charge actions": "podczas Szarży",
         "in melee.": "w walce wręcz.",
+        " units with ": " z ",
         " to ": " do "
     },
     "spells":
