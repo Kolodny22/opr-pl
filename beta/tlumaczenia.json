@@ -371,11 +371,8 @@
         "Ignores Cover, and when attacking the target must re-roll unmodified Defense results of 6.": "Ignoruje Osłonę, a podczas ataku cel musi przerzucić niemodyfikowane wyniki rzutów na Obronę równe 6.",
         "Ignores Regeneration, and against non-Hero units with Tough(3) or more, this weapon gets AP(+2).": "Ignoruje Regenerację i przeciwko jednostkom niebędącym Bohaterami z Odpornością(3) lub większą, ta broń otrzymuje AP(+2).",
         "Ignores Regeneration, and against non-Hero units with Tough(3) or more, this weapon gets AP(+4).": "Ignoruje Regenerację, a przeciwko jednostkom niebędącym Bohaterami z Odpornością(3) lub większą, ta broń otrzymuje AP(+4).",
-        "Ignores Regeneration, and against units where most models have Defense 2+ to Defense 3+, this weapon gets AP(+2).": "Ignoruje Regenerację, a przeciwko jednostkom, w których większość modeli ma Obronę 2+ do 3+, ta broń otrzymuje AP(+2).",
-        "Ignores Regeneration, and against units where most models have Defense 2+ to Defense 4+, this weapon gets AP(+1).": "Ignoruje Regenerację, a przeciwko jednostkom, w których większość modeli ma Obronę 2+ do 4+, ta broń otrzymuje AP(+1).",
-        "Ignores Regeneration, and against units where most models have Defense 5+ to Defense 6+, this weapon gets Blast(+3).": "Ignoruje Regenerację, a przeciwko jednostkom, w których większość modeli ma Obronę 5+ do 6+, ta broń otrzymuje Wybuch (+3).",
-        "Ignores Regeneration, and against units where most models have Tough(3) to Tough(9), this weapon gets AP(+2).": "Ignoruje Regenerację, a przeciwko jednostkom, w których większość modeli posiada Odporność(3) do Odporności(9), ta broń zyskuje AP(+2).",
-        "Ignores Regeneration, and against units where most models have Tough(3) to Tough(9), this weapon gets AP(+4).": "Ignoruje Regenerację, a przeciwko jednostkom, w których większość modeli posiada Odporność(3) do Odporności(9), ta broń zyskuje AP(+4).",
+        "Ignores Regeneration, and against units where most models have ": "Ignoruje Regenerację, a przeciwko jednostkom, w których większość modeli ma ",
+        "this weapon gets": "ta broń zyskuje",
         "Ignores Regeneration, and ignores all negative modifiers to this weapon.": "Ignoruje Regenerację oraz ignoruje wszystkie negatywne modyfikatory mające wpływ na tę broń.",
         "Ignores Regeneration, and on unmodified results of 1 to block hits, this weapon deals 1 extra wound.": "Ignoruje Regenerację, a przy niemodyfikowanych wynikach 1 na zablokowanie trafienia, ta broń zadaje 1 dodatkową ranę.",
         "Ignores Regeneration, and on unmodified results of 6 to hit that aren't blocked, this weapon deals 1 extra wound.": "Ignoruje Regenerację, a przy niemodyfikowanych rzutach 6 na trafienie, które nie zostało zablokowane, ta Broń zadaje 1 dodatkową ranę.",
@@ -496,7 +493,7 @@
         "Strikes first with this weapon when charged, and the charging unit gets -1 total Impact rolls per model with Counter.": "Atakuje pierwszy tą bronią, gdy będzie celem szarży, a jednostka szarżująca otrzymuje -1 do sumarycznych rzutów Impaktu za każdy model z cechą Kontra w broni.",
         "Strikes first when charged.": "Uderza pierwszy, kiedy jest szarżowany.",
         "Strikes last when charging.": "Uderza ostatni podczas szarży.",
-        "Targets get -X to ": "Cele otrzymują -X do rzutów na",
+        "Targets get -X to ": "Cele otrzymują -X do rzutów na ",
         "rolls when blocking hits.": "podczas blokowania.",
         "This model and up to 3 friendly units picked before the start of the game get Changebound Boost. If this model is killed, picked models that are deployed lose the rule.": "Ten model i do 3 sojuszniczych jednostek wybranych przed rozpoczęciem gry otrzymują Piętna Zmiany II. Jeśli model ten zostanie zabity, wybrane modele, które są w grze, tracą tę zasadę.",
         "This model counts as having Caster(1).": "Ten model jest traktowany jako posiadający Mag(1).",
@@ -588,7 +585,8 @@
         "when using move actions": "podczas ruchu",
         "when using Rush/Charge actions": "podczas Biegu/Szarży",
         "when using Advance actions and": "podczas Marszu i o",
-        "when using Charge actions": "podczas Szarży"
+        "when using Charge actions": "podczas Szarży",
+        "to": "do"
     },
     "spells":
     {
