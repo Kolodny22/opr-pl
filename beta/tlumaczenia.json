@@ -537,7 +537,7 @@
         "When attacking, roll one die and apply one effect to all models with this rule: on a 1-3 they get AP(+1), and on a 4-6 they get +1 do rzutów na trafienie instead.": "Podczas atakowania, rzuć jedną kością i zastosuj jeden efekt do wszystkich modeli z tą zasadą: w przypadku wyniku 1-3 otrzymują AP(+1), a w przypadku wyniku 4-6 otrzymują zamiast tego +1 do rzutów na trafienie.",
         "When attacking, targets must re-roll unmodified Defense results of 6 when blocking hits from this model's weapons.": "Podczas ataku, cele muszą przerzucić niemodyfikowane wyniki Obrony równe 6, kiedy blokują trafienia z broni tego modelu.",
         "When attacking, unmodified results of 6 to hit deal 1 extra hit (only the original hit counts as a 6 for special rules).": "Podczas atakowania, niemodyfikowane wyniki 6 na trafienie zadają 1 dodatkowe trafienie (tylko oryginalne trafienie liczy się jako 6 dla zdolności specjalnych).",
-        "When charging, gets +1 to hit rolls and AP(+1) in melee.": "Podczas szarży otrzymuje +1 do rzutów na trafienie i AP(+1) w walce wręcz.",
+        "When charging, gets +1 to hit rolls and": "Podczas szarży otrzymuje +1 do rzutów na trafienie i",
         "When charging, unmodified results of 6 to hit in melee deal 1 extra hit (only the original hit counts as a 6 for special rules).": "Podczas szarży niemodyfikowane rzuty 6 na trafienie w walce wręcz zadają jedno dodatkowe trafienie (tylko pierwotne trafienie liczy się jako 6 w przypadku zasad specjalnych).",
         "When enemy units shoot at this model from over 9\" away, they get -2 to hit rolls.": "Kiedy jednostki wroga strzelają do tego modelu z odległości większej niż 9\", otrzymują -2 do rzutów na trafienie.",
         "When in melee, roll one die and apply one effect to all models with this rule: on a 1-3 they get AP(+1), and on a 4-6 they get +1 to hit rolls instead.": "W walce wręcz, rzuć jedną kością i zastosuj jeden efekt do wszystkich modeli z tą zasadą: na 1-3 otrzymują AP(+1), a na 4-6 otrzymują +1 do rzutów na trafienie.",
@@ -586,6 +586,7 @@
         "when using Rush/Charge actions": "podczas Biegu/Szarży",
         "when using Advance actions and": "podczas Marszu i o",
         "when using Charge actions": "podczas Szarży",
+        "in melee.": "w walce wręcz.",
         "to": "do"
     },
     "spells":
