@@ -297,7 +297,14 @@
         "Wolfborn": "Ród Wilka",
         "Wreck": "Wrak",
         "when Shooting": "podczas Strzelania",
-        "in Melee": "w WW"
+        "in Melee": "w WW",
+        "Auto-Rifle": "Auto-Karabin",
+        "Energy Fist": "Pięść Energetyczna",
+        "Energy Sword": "Miecz Energetyczny",
+        "HE-Launcher": "Wyrzutnia-HE",
+        "Heavy Pistol": "Cięzki Pistolet",
+        "Marksman Carbine": "Karabinek Wyborowy",
+        "Master Plasma Pistol": "Pistolet Plazmowy Mistrza"
     },
     "descriptions":
     {
