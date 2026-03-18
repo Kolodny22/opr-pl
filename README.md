@@ -1,9 +1,9 @@
 # opr-pl
 Skrypt do Tampermonkey, który automatycznie podmienia opisy zdolności na stronie Army Forge OPR, używając zewnętrznego pliku.
 
-**Update 3.5.1:**
+**Update 3.5.2:** 18.03.2026
 
-Jestem w trakcie tłumaczenia aktualizacji 3.5.1. Niestety ze względu na dodanie tooltipów tłumaczenie jest trudniejsze. Na chwilę obecną działają pełne tłumaczenia na ostatniej stronie tworzenia listy przy wydruku (tam gdzie nie ma tooltipów).
+Na chwilę obecną zawieszam dalsze tłumaczenie ze względu na inne zainteresowania. W razie próśb/pytań możan się ze mną skontkatować na polskim Discordzie One Page Rules pod nickiem Twentytwo.
 
 **Instalacja:**
 
